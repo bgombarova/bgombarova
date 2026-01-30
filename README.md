@@ -3,7 +3,7 @@
 ## Betka Gombárová
 **Data Analyst | SQL • Excel • Tableau**
 
-🟢 Open to entry-level data analyst opportunities
+🟢Exploring early-career data analyst roles
 
 Data analyst with hands-on experience supporting data-driven process improvement, KPI reporting, and business analysis. Skilled in SQL, Excel, and Tableau, with experience analyzing real-world datasets across business and healthcare contexts. Known for translating complex analysis into clear insights and actionable recommendations, and for communicating effectively with both technical and non-technical stakeholders to support confident, informed decision-making.
 
