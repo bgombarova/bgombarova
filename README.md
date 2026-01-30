@@ -10,8 +10,8 @@ Data analyst with hands-on experience supporting data-driven process improvement
 ### Featured Projects
 -  **[Aventra Electronics E-Commerce Analysis](https://github.com/bgombarova/aventra-electronics-ecommerce-analysis)**  
   SQL • Excel • Tableau  
-  Analysis of revenue performance, operational trends, and business insights across a multi-year e-commerce dataset.
+  Analysis of Aventra Electronics’ 108k+ e-commerce records on performance from 2019–2022, providing insight into how revenue, customer behavior, and product performance shifted around the pandemic. The analysis identifies growth opportunities, inefficiencies, and profitability risks to support data-driven decisions across marketing, product, and sales.
 
 -  **[Horizon Health Marketing Analysis](https://github.com/bgombarova/horizon-health-marketing-analysis)**  
   Excel • Tableau  
-  Healthcare-focused analysis examining plan sign-ups, marketing performance, and downstream business impact.
+  Healthcare-focused analysis evaluating plan sign-ups, marketing performance, customer acquisition efficiency, and downstream business impact for a U.S. health insurance company, using Excel and Tableau to support data-driven budget allocation decisions.
