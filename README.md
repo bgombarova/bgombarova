@@ -12,6 +12,6 @@ Data analyst with hands-on experience supporting data-driven process improvement
   SQL • Excel • Tableau  
   Analysis of revenue performance, operational trends, and business insights across a multi-year e-commerce dataset.
 
--  **[Horizon Health Insurance & Marketing Analysis](https://github.com/bgombarova/horizon-health-insurance-marketing-analysis)**  
+-  **[Horizon Health Marketing Analysis](https://github.com/bgombarova/horizon-health-marketing-analysis)**  
   SQL • Excel • Tableau  
   Healthcare-focused analysis examining plan sign-ups, marketing performance, and downstream business impact.
