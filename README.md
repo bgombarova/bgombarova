@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner01.png)
 
 ## Betka Gombarova
 **Data Analyst | SQL • Excel • Tableau**
