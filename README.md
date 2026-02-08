@@ -7,7 +7,7 @@
 
 Data analyst with hands-on experience supporting data-driven process improvement, KPI reporting, and business analysis. Skilled in SQL, Excel, and Tableau, with experience analyzing real-world datasets across business and healthcare contexts. Known for translating complex analysis into clear insights and actionable recommendations, and for communicating effectively with both technical and non-technical stakeholders to support confident, informed decision-making.
 
-### Featured Projects
+### Stakeholder Projects
 -  **[Aventra Electronics E-Commerce Analysis](https://github.com/bgombarova/aventra-electronics-ecommerce-analysis)**  
   SQL • Excel • Tableau  
   Analysis of Aventra Electronics’ 108k+ e-commerce records on performance from 2019–2022, providing insight into how revenue, customer behavior, and product performance shifted around the pandemic. The analysis identifies growth opportunities, inefficiencies, and profitability risks to support data-driven decisions across marketing, product, and sales.
