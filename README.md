@@ -4,7 +4,7 @@
 **Data Analyst | SQL • Excel • Tableau**
 
 
-Data analyst with hands-on experience supporting data-driven process improvement, KPI reporting, and business analysis. Skilled in SQL, Excel, and Tableau, with experience analyzing real-world datasets across business and healthcare contexts. Known for translating complex analysis into clear insights and actionable recommendations, and for communicating effectively with both technical and non-technical stakeholders to support confident, informed decision-making.
+Data analyst with hands-on experience analyzing revenue, customer engagement, and operational performance data to support reporting and business decision-making. Skilled in SQL, Excel, and Tableau, with experience working with large real-world datasets across e-commerce and healthcare contexts. Known for validating data integrity, identifying performance trends, and translating complex datasets into clear insights that support confident decision-making across technical and business teams.
 
 ### Stakeholder Projects
 -  **[Aventra Electronics E-Commerce Analysis](https://github.com/bgombarova/aventra-electronics-ecommerce-analysis)**  
