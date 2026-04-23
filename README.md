@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner01.png" width="700"/>
-</p>
+![Banner](banner01.png)
 
 ## Betka Gombarova
 **Data Analyst | Operations, Reporting, Data Accuracy | SQL • Excel • Tableau**
