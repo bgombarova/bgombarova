@@ -1,10 +1,10 @@
 ![Banner](banner01.png)
 
 ## Betka Gombarova
-**Data Analyst | SQL • Excel • Tableau**
+**Data Analyst | Operations, Reporting, Data Accuracy | SQL • Excel • Tableau**
 
 
-Data analyst focused on revenue operations, pipeline performance, and operational analytics. Skilled in SQL, Excel, and Tableau with experience analyzing large real-world datasets to support reporting, forecasting visibility, and data-driven business decisions.
+Data analyst focused on supporting business and sales operations through accurate data, validation, and reliable reporting. Skilled in SQL, Excel, and Tableau with experience working with large datasets to ensure data integrity, maintain consistency across reporting, and support structured business processes.
 
 ### Stakeholder Projects
 
