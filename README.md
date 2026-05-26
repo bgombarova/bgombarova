@@ -1,4 +1,4 @@
-![Banner](banner01.png)
+![Banner](banner1.png)
 
 ## Betka Gombarova
 **Data Analyst | Operations, Reporting, Data Accuracy | SQL • Excel • Tableau**
