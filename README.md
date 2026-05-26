@@ -1,10 +1,10 @@
 ![Banner](banner1.png)
 
 ## Betka Gombarova
-**Data Analyst | Operations, Reporting, Data Accuracy | SQL • Excel • Tableau**
+**Sales Operations Analyst | Salesforce | CRM Administration | Pipeline Reporting | Excel | SQL | Tableau**
 
 
-Data analyst focused on supporting business and sales operations through accurate data, validation, and reliable reporting. Skilled in SQL, Excel, and Tableau with experience working with large datasets to ensure data integrity, maintain consistency across reporting, and support structured business processes.
+Sales Operations professional with hands-on experience supporting revenue teams through CRM administration, pipeline reporting, and data accuracy. I work daily in Salesforce to maintain data integrity and build performance dashboards for sales leadership. I also work with large datasets in Excel (108K+ rows) and visualize findings in Tableau. This portfolio includes end-to-end analytics projects built to demonstrate business impact across e-commerce and healthcare use cases.
 
 ### Stakeholder Projects
 
