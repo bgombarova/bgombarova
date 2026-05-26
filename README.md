@@ -30,7 +30,7 @@ The project includes **data validation, anomaly detection, and integrity checks*
 
 **Tools:** Excel • Tableau  
 
-Analysis of **multi-year marketing campaign performance** across **8.4M impressions and 16.3K signups** for a U.S. health insurance organization.
+Analysis of **5 years of marketing campaign performance (2019–2023)** across **8.4M impressions and 16.3K signups** for a U.S. health insurance organization, connecting campaign spend to **downstream insurance claims cost and ROI.**
 
 The project focused on **dataset validation and completeness checks** prior to analysis. Campaign performance, acquisition efficiency, and **downstream revenue impact** were evaluated to identify **high-performing initiatives and inefficient campaigns** with elevated cost-per-signup.
 
