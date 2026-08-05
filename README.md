@@ -4,7 +4,7 @@
 **Global Enterprise Sales Operations Analyst | Forecasting | Sales Analytics | CRM Data Integrity | Salesforce | Tableau | Excel | SQL**
 
 
-Global Enterprise Sales Operations Analyst at Motorola Solutions, supporting strategic sales leadership through forecasting, performance reporting, CRM data integrity, and sales analytics across a large enterprise portfolio.Experienced in translating complex sales and business data into clear, decision-ready insights using Salesforce, Excel, Tableau, and SQL. This portfolio highlights end-to-end analytical work across e-commerce and healthcare, including data validation, dashboard development, performance analysis, and business recommendations.
+Global Enterprise Sales Operations Analyst at Motorola Solutions, supporting strategic sales leadership through forecasting, performance reporting, CRM data integrity, and sales analytics across a large enterprise portfolio. Experienced in translating complex sales and business data into clear, decision-ready insights using Salesforce, Excel, Tableau, and SQL. This portfolio highlights end-to-end analytical work across e-commerce and healthcare, including data validation, dashboard development, performance analysis, and business recommendations.
 
 ### Stakeholder Projects
 
