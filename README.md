@@ -1,10 +1,10 @@
 ![Banner](banner1.png)
 
 ## Betka Gombarova
-**Sales Operations Analyst | Salesforce | CRM Administration | Pipeline Reporting | Excel | SQL | Tableau**
+**Global Enterprise Sales Operations Analyst | Forecasting | Sales Analytics | CRM Data Integrity | Salesforce | Tableau | Excel | SQL**
 
 
-Sales Operations professional with hands-on experience supporting revenue teams through CRM administration, pipeline reporting, and data accuracy. I work daily in Salesforce to maintain data integrity and build performance dashboards for sales leadership. I also work with large datasets in Excel (108K+ rows) and visualize findings in Tableau. This portfolio includes end-to-end analytics projects built to demonstrate business impact across e-commerce and healthcare use cases.
+Global Enterprise Sales Operations Analyst at Motorola Solutions, supporting strategic sales leadership through forecasting, performance reporting, CRM data integrity, and sales analytics across a large enterprise portfolio.Experienced in translating complex sales and business data into clear, decision-ready insights using Salesforce, Excel, Tableau, and SQL. This portfolio highlights end-to-end analytical work across e-commerce and healthcare, including data validation, dashboard development, performance analysis, and business recommendations.
 
 ### Stakeholder Projects
 
